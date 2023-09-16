@@ -5,7 +5,7 @@
 ### 成员: 
 <div >
     <ul>
-        <li style="dislay:block; left:40px">占位</li>
+        <li style="dislay:block; margin:40px">占位</li>
         <li>占位</li>
         <li>占位</li>
     </ul>
