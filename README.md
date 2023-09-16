@@ -4,7 +4,7 @@
 ## 参与者：22级
 ### 成员: 
 
-<ul style="left:40px">
+<ul style="left:80px">
     <li>占位</li>
     <li>占位</li>
     <li>占位</li>
