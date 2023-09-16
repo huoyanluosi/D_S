@@ -6,8 +6,9 @@
 
 
 <ul>
-  <ul>
-    <li style="text-align:center">占位</li>
-  </ul>
+  <li>占位</li>
+  <li>占位</li>
+  <li>占位</li>
+  <li>占位</li>
 </ul>
 
