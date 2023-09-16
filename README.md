@@ -7,7 +7,7 @@
 
 <ul>
   <ul>
-    <li color=red>占位</li>
+    <li style="text-align:center">占位</li>
   </ul>
 </ul>
-<font color=red>owls</font>
+
