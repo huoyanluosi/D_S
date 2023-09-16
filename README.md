@@ -7,6 +7,6 @@
 
 <ul>
   <ul>
-    <li style="color:red">占位</li>
+    <li style="color:'red'">占位</li>
   </ul>
 </ul>
