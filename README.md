@@ -4,10 +4,6 @@
 ## 参与者：22级
 ### 成员: 
 <div >
-    <ul>
-        <li style="dislay:block; margin:40px">占位</li>
-        <li>占位</li>
-        <li>占位</li>
-    </ul>
+    <ul><li style="dislay:block; margin:40px">占位</li></ul>
 </div>
 
